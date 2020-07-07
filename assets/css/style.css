@@ -64,8 +64,8 @@ input:focus, button:focus, textarea:focus, a:focus {
 
 .btn-custom {
     color: #ffffff;
-    background-color: #00AEEF;
-    border: 1px solid #00AEEF;
+    background-color: #4169e1;
+    border: 1px solid #4169e1;
     border-radius: 5px;
     padding: 10px 20px;
     -webkit-box-shadow: 0 13px 27px -5px rgba(50, 50, 93, .25), 0 8px 16px -8px rgba(0, 0, 0, .3), 0 -6px 16px -6px rgba(0, 0, 0, .025);
@@ -130,7 +130,7 @@ a.stroke-text {
     font-size: 4rem;
     font-weight: 900;
     text-transform: uppercase;
-    -webkit-text-stroke: .1rem #00AEEF;
+    -webkit-text-stroke: .1rem #4169e1;
     transition: all 0.3s ease;
 }
 
@@ -151,7 +151,7 @@ a.stroke-text:hover {
 }
 
 .navbar a.navbar-brand {
-    color: #00AEEF;
+    color: #4169e1;
     font-size: 1.5rem;
 }
 
@@ -170,7 +170,7 @@ a.stroke-text:hover {
 }
 
 .navbar-header .navbar-nav a.nav-link {
-    color: #00AEEF;
+    color: #4169e1;
     padding: 10px 15px;
     transition: all 0.3s ease;
 }
@@ -249,7 +249,7 @@ a.stroke-text:hover {
 }
 
 .abstract-svg-2 {
-    fill: #00AEEF;
+    fill: #4169e1;
     height: 45px;
     width: 45px;
     top: 10%;
@@ -520,7 +520,7 @@ a.stroke-text:hover {
 }
 
 .service-list .owl-nav button.owl-prev:hover, .service-list .owl-nav button.owl-next:hover {
-    background: #00AEEF;
+    background: #4169e1;
     color: #ffffff;
     box-shadow: 0 6px 22px rgba(34, 34, 34, 0.2);
 }
@@ -609,7 +609,7 @@ a.stroke-text:hover {
 }
 
 .project-title li:hover {
-    border-bottom: 2px solid #00AEEF;
+    border-bottom: 2px solid #4169e1;
 }
 
 .single-project-item {
@@ -624,7 +624,7 @@ a.stroke-text:hover {
 }
 
 .single-project-item a, .single-project-item span, .project-title li.active {
-    color: #00AEEF;
+    color: #4169e1;
 }
 
 .row.project-list {
@@ -697,7 +697,7 @@ a.stroke-text:hover {
 }
 
 .client-testimonials .owl-dots button {
-    background: #00AEEF;
+    background: #6495ed;
     height: 5px;
     width: 20px;
     display: inline-block;
@@ -708,7 +708,7 @@ a.stroke-text:hover {
 
 .client-testimonials .owl-dots button.active {
     width: 35px;
-    background: rgba(31, 93, 211, 1);
+    background: #4169e1;
 }
 
 .client-testimonials .owl-dots {
@@ -736,7 +736,7 @@ a.stroke-text:hover {
     width: 60px;
     height: 60px;
     line-height: 1;
-    color: rgb(8, 175, 252);
+    color: #6495ed;
     background-color: #f5f8fe;
     border: none;
     border-radius: 50%;
@@ -884,7 +884,7 @@ a.scrollToTop {
     position: fixed;
     right: 30px;
     bottom: 30px;
-    background: #00AEEF;
+    background: #4169e1;
     color: white;
     padding: 22px;
     border-radius: 50%;

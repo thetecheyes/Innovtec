@@ -162,12 +162,12 @@
 
     /* ----- Team Section ----- */
     .team-member .single-team-member {
-        height: 362px;
+        height: 316px;
     }
 
     .team-member .single-team-member .member-content {
         height: 100%;
-        padding: 170px 20px 20px 20px;
+        padding: 200px 20px 20px 20px;
     }
 
 }

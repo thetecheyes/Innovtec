@@ -11,8 +11,9 @@ $(document).ready(function ($) {
 
     // ------- Smooth Scroll ------- //
 
-    const scroll = new SmoothScroll('.navbar-nav a[href*="#"]');
-    speed: 800;
+    const scroll = new SmoothScroll('.navbar-nav a[href*="#"]', {
+        speed: 800
+    });
 
     // ------- Sticky Navbar & Scroll to top button ------- //
 

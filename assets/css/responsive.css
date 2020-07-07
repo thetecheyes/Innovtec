@@ -111,6 +111,12 @@
     .team-member .single-team-member .member-content ul {
         margin: 20px 0 0;
     }
+
+    /* ----- Footer Section ----- */
+    .footer-content {
+        grid-template-columns: 1.5fr 1fr;
+        grid-row-gap: 7%;
+    }
 }
 
 @media only screen and (max-width: 767.98px) {
@@ -136,9 +142,18 @@
         padding: 64% 20px 20px 20px;
     }
 
+    /* ----- Footer Section ----- */
+    .footer-content {
+        background-image: none;
+    }
+
 }
 
 @media only screen and (max-width: 575.98px) {
+
+    a.stroke-text {
+        font-size: 3rem;
+    }
 
     /* ----- Navbar Section ----- */
     .contact-btn {

@@ -4,13 +4,16 @@
     .team-member .single-team-member {
         height: 290px;
     }
+
     .team-member .single-team-member .member-content {
         height: 100%;
         padding: 50% 20px 20px 20px;
     }
+
     .team-member .single-team-member .member-content ul {
         margin: 15px 0 0;
     }
+
     .team-member .single-team-member .member-content ul li a {
         font-size: 25px;
     }
@@ -25,12 +28,15 @@
         position: absolute;
         right: 30px;
     }
+
     span.navbar-toggler-icon {
         height: 100%;
     }
+
     #sidebar.active {
         left: 0;
     }
+
     #sidebar {
         width: 280px;
         position: fixed;
@@ -39,9 +45,9 @@
         height: 100vh;
         z-index: 999;
         background: #00AEEF;
-        background-image: -moz-linear-gradient(135deg, rgba(31,93,211,1) 0%, rgba(49,114,213,1) 50%, rgba(70,137,215,1) 100%);
-        background-image: -webkit-linear-gradient(135deg, rgba(31,93,211,1) 0%, rgba(49,114,213,1) 50%, rgba(70,137,215,1) 100%);
-        background-image: linear-gradient(135deg, rgba(31,93,211,1) 0%, rgba(49,114,213,1) 50%, rgba(70,137,215,1) 100%);
+        background-image: -moz-linear-gradient(135deg, rgba(31, 93, 211, 1) 0%, rgba(49, 114, 213, 1) 50%, rgba(70, 137, 215, 1) 100%);
+        background-image: -webkit-linear-gradient(135deg, rgba(31, 93, 211, 1) 0%, rgba(49, 114, 213, 1) 50%, rgba(70, 137, 215, 1) 100%);
+        background-image: linear-gradient(135deg, rgba(31, 93, 211, 1) 0%, rgba(49, 114, 213, 1) 50%, rgba(70, 137, 215, 1) 100%);
         color: #ffffff;
         transition: all 0.3s;
         box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
@@ -49,9 +55,11 @@
         touch-action: auto;
         transition: all 0.5s ease;
     }
+
     #sidebar .navbar-nav {
         margin-top: 50px;
     }
+
     #sidebar .navbar-nav a.nav-link {
         display: inline-block;
         width: 100%;
@@ -60,13 +68,16 @@
         color: #ffffff;
         transition: all 0.3s ease;
     }
+
     #sidebar .navbar-nav a.nav-link:hover {
         color: #ffffff;
         background: #eaeef525;
     }
+
     #sidebar .navbar-nav a.nav-link i.sidebar-icon {
         display: inline-block;
     }
+
     #sidebar .navbar-nav a.nav-link i.sidebar-icon {
         font-size: 20px;
         padding-right: 20px;
@@ -74,21 +85,22 @@
         color: #ffffff;
         transition: all 0.3s ease;
     }
-    #sidebar .navbar-nav a.nav-link:hover i.sidebar-icon{
+
+    #sidebar .navbar-nav a.nav-link:hover i.sidebar-icon {
         padding-right: 60px;
     }
+
     /* Navbar Contact Button */
     .contact-btn {
         margin-right: 100px;
     }
 
     /* ----- Hero Section ----- */
-
     .shapes {
         display: none;
     }
-    /* ----- About Section ----- */
 
+    /* ----- About Section ----- */
     .about-section .about-bg-shape img {
         width: 50%;
         margin-left: 50%;
@@ -104,10 +116,12 @@
     .team-member .single-team-member {
         height: 330px;
     }
+
     .team-member .single-team-member .member-content {
         height: 100%;
         padding: 55% 20px 20px 20px;
     }
+
     .team-member .single-team-member .member-content ul {
         margin: 20px 0 0;
     }
@@ -124,13 +138,14 @@
     .project-bg-shape1 img, .project-bg-shape2 img {
         display: none;
     }
-    
+
     /* ----- Team Section ----- */
     .team-member .single-team-member {
         height: 408px;
         width: 80%;
         margin: 0 auto 30px;
     }
+
     .team-member .single-team-member .member-content {
         height: 100%;
         padding: 64% 20px 20px 20px;
@@ -149,9 +164,10 @@
     .team-member .single-team-member {
         height: 362px;
     }
+
     .team-member .single-team-member .member-content {
         height: 100%;
         padding: 170px 20px 20px 20px;
     }
-    
+
 }

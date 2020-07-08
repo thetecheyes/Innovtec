@@ -561,7 +561,44 @@ a.stroke-text:hover {
 }
 
 .project-bg-1 {
-    background-image: url('../images/projects/project-1.jpg')
+	background-image: url('../images/new/Bullsy.png')
+}
+.project-bg-2 {
+	background-image: url('../images/new/Fashion-Template.png')
+}
+.project-bg-3 {
+	background-image: url('../images/new/Hot-Gadgets-Ecommerce.png')
+}
+.project-bg-4 {
+	background-image: url('../images/new/Lambda-Restaurant.png')
+}
+.project-bg-5 {
+	background-image: url('../images/new/Panda-Ecommerce.png')
+}
+.project-bg-6 {
+	background-image: url('../images/new/Personal-Website.png')
+}
+.project-bg-7 {
+	background-image: url('../images/new/Porto.png')
+}
+.project-bg-8 {
+	background-image: url('../images/new/Display.png')
+}
+.project-bg-9 {
+	background-image: url('../images/new/Centum.png')
+}
+.project-bg-10 {
+	background-image: url('../images/new/NGO.png')
+}
+.project-bg-11 {
+	background-image: url('../images/new/Panakeia.png')
+}
+.project-bg-12 {
+	background-image: url('../images/new/Switch.png')
+}
+
+/* .project-bg-1 {
+	background-image: url('../images/projects/project-1.jpg')
 }
 
 .project-bg-2 {
@@ -594,7 +631,7 @@ a.stroke-text:hover {
 
 .project-bg-9 {
     background-image: url('../images/projects/project-9.jpg')
-}
+} */
 
 .project-title {
     margin: 0 0 40px;
@@ -879,6 +916,87 @@ a.stroke-text:hover {
 .team-member .single-team-member .member-content ul li a:hover {
     color: #00d280;
 }
+/* ----- END: Team Section ----- */
+
+/* ----- START: Footer Section ----- */
+section.footer-section {
+    /* background-color: #1968e0; */
+    background-image: -moz-linear-gradient(180deg, rgba(70,137,215,1) 0%, rgba(49,114,213,1) 50%, rgba(31,93,211,1) 100%);
+	background-image: -webkit-linear-gradient(180deg, rgba(70,137,215,1) 0%, rgba(49,114,213,1) 50%, rgba(31,93,211,1) 100%);
+    background-image: linear-gradient(180deg, rgba(70,137,215,1) 0%, rgba(49,114,213,1) 50%, rgba(31,93,211,1) 100%);
+}
+.footer-content {
+    background-image: url(../images/footer-map.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: grid;
+    grid-template-columns: 3fr 1fr 1.5fr 1.5fr;
+    grid-gap: 2%;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ffffff32;
+}
+.footer-section a,
+.footer-section p,
+.contact-details a.innovtec-logo {
+    color: #ffffff;
+}
+.contact-details {
+    width: 90%;
+}
+.contact-details a {
+    display: inline-block;
+}
+.contact-details p {
+    margin: 0;
+}
+.contact-details i {
+    padding-right: 10px;
+}
+.contact-details .social-contact li {
+    display: inline;
+}
+.contact-details .social-contact li a {
+    font-size: 1.5rem;
+}
+.footer-heading-title {
+    margin-bottom: 50px;
+    font-size: 20px;
+    color: #ffffff;
+}
+.contact-details .contact-email,
+.contact-details .social-contact {
+    margin-top: 30px;
+}
+.footer-menu li:not(:nth-child(1)),
+.footer-services li:not(:nth-child(1)) {
+    margin-bottom: 15px;
+}
+.footer-newsletter form input {
+    background: #5c9fec;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 16px;
+}
+.footer-newsletter form input::placeholder {
+    color: #ffffff;
+}
+.footer-newsletter form input.form-control:focus {
+    color: #ffffff;
+    background-color: #5c9fec;
+    border-color: none;
+    box-shadow: none;
+}
+.footer-newsletter form a.input-group-text {
+    color: #ffffff;
+    background: #205ED3;
+    border: none;
+}
+.copyright-text {
+    margin-top: 20px;
+}
+/* ----- END: Footer Section ----- */
 
 /* ----- END: Team Section ----- */
 

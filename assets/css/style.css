@@ -476,6 +476,42 @@ a.innovtec-logo {
     margin-bottom: 50px;
 }
 .project-bg-1 {
+	background-image: url('../images/new/Bullsy.png')
+}
+.project-bg-2 {
+	background-image: url('../images/new/Fashion-Template.png')
+}
+.project-bg-3 {
+	background-image: url('../images/new/Hot-Gadgets-Ecommerce.png')
+}
+.project-bg-4 {
+	background-image: url('../images/new/Lambda-Restaurant.png')
+}
+.project-bg-5 {
+	background-image: url('../images/new/Panda-Ecommerce.png')
+}
+.project-bg-6 {
+	background-image: url('../images/new/Personal-Website.png')
+}
+.project-bg-7 {
+	background-image: url('../images/new/Porto.png')
+}
+.project-bg-8 {
+	background-image: url('../images/new/Display.png')
+}
+.project-bg-9 {
+	background-image: url('../images/new/Centum.png')
+}
+.project-bg-10 {
+	background-image: url('../images/new/NGO.png')
+}
+.project-bg-11 {
+	background-image: url('../images/new/Panakeia.png')
+}
+.project-bg-12 {
+	background-image: url('../images/new/Switch.png')
+}
+/* .project-bg-1 {
 	background-image: url('../images/projects/project-1.jpg')
 }
 .project-bg-2 {
@@ -501,7 +537,7 @@ a.innovtec-logo {
 }
 .project-bg-9 {
 	background-image: url('../images/projects/project-9.jpg')
-}
+} */
 .project-title {
 	margin: 0 0 40px;
 	padding: 0;

@@ -998,6 +998,13 @@ a.stroke-text:hover {
     transition: .4s ease;
 }
 
+input:invalid,
+textarea:invalid,
+input:-moz-submit-invalid,
+textarea:-moz-submit-invalid {
+    box-shadow: none;
+}
+
 .contact-form form .inputBox input:focus,
 .contact-form form .inputBox textarea:focus {
     border-bottom: 1px solid #4169e1;

@@ -877,12 +877,12 @@ a.stroke-text:hover {
     border-radius: 0 0 10px 10px;
     text-align: center;
     transition: all 0.4s ease;
-    opacity: 1;
+    opacity: 0;
 }
 
-/*.team-member .single-team-member:hover .member-content {*/
-/*    opacity: 0;*/
-/*}*/
+.team-member .single-team-member:hover .member-content {
+    opacity: 1;
+}
 
 .team-member .single-team-member:nth-child(1) .member-content {
     background-image: -moz-linear-gradient(180deg, transparent, rgba(49, 114, 213, .8) 55%, rgba(31, 93, 211, .9) 100%);

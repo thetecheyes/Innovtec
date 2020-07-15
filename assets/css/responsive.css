@@ -155,6 +155,7 @@
     .team-member .single-team-member .member-content {
         height: 100%;
         padding: 64% 20px 20px 20px;
+        opacity: 1;
     }
 
     /* ----- Footer Section ----- */
@@ -183,6 +184,7 @@
     .team-member .single-team-member .member-content {
         height: 100%;
         padding: 200px 20px 20px 20px;
+        opacity: 1;
     }
 
 }

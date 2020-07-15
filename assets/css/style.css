@@ -1052,6 +1052,10 @@ section.footer-section {
     color: #ffffff;
 }
 
+.innovtec-logo {
+    max-width: 120px;
+}
+
 .contact-details {
     width: 90%;
 }

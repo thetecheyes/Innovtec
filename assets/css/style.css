@@ -545,7 +545,7 @@ a.innovtec-logo {
 }
 .project-title li {
     margin: 0;
-    padding: 5px 20px 8px;
+    padding: 5px 15px 8px;
     cursor: pointer;
     font-size: 14px;
     font-weight: 600;
@@ -567,6 +567,9 @@ a.innovtec-logo {
 }
 .single-project-item a, .single-project-item span, .project-title li.active{
     color: #00AEEF;
+}
+.project-title li.active {
+    border-bottom: 2px solid #00AEEF;
 }
 .row.project-list  {
 	margin-left: -7.5px;

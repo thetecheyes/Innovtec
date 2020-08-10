@@ -15,7 +15,6 @@ html, body {
     overflow-x: hidden;
     color: #465361;
 }
-
 h1,
 h2,
 h3,
@@ -32,12 +31,10 @@ p {
     font-weight: 400;
     font-size: 15px;
 }
-
 a {
     text-decoration: none;
     transition: all 0.4s ease;
 }
-
 a:hover {
     color: #1968e0;
     text-decoration: none;
@@ -165,8 +162,9 @@ a.stroke-text:hover {
     top: 15px;
     padding: 5px;
     font-size: 20px;
-    color: #FFFCE1;
+    color: #ffffff;
     line-height: 1em;
+    display: none;
 }
 
 .navbar a.close-menu:hover {

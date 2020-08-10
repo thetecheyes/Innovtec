@@ -36,13 +36,15 @@
     #sidebar.active {
         left: 0;
     }
-
+    #sidebar.active a.close-menu{
+        display: block;
+    }
     #sidebar {
         width: 280px;
         position: fixed;
         top: 0;
         left: -300px;
-        height: 100vh;
+        height: 100%;
         z-index: 999;
         background: #00AEEF;
         background-image: -moz-linear-gradient(135deg, rgba(31, 93, 211, 1) 0%, rgba(49, 114, 213, 1) 50%, rgba(70, 137, 215, 1) 100%);
